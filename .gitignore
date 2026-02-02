@@ -1,0 +1,4 @@
+# Environment and secrets
+app/.env
+.env
+.env.local
